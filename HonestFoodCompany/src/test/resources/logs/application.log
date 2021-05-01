@@ -1,0 +1,14 @@
+2021-05-01 15:13:04,902  INFO [main] TestBase:33 - Properties file initialization is completed
+2021-05-01 15:13:59,664  INFO [main] TestBase:33 - Properties file initialization is completed
+2021-05-01 15:13:59,731  INFO [TestNG] TestBase:75 - ChromePath: C:\Users\Potato\eclipse-workspace1\HonestFoodCompany\src\test\resources\Drivers\chromedriver.exe
+2021-05-01 15:37:59,729  INFO [main] TestBase:33 - Properties file initialization is completed
+2021-05-01 15:37:59,783  INFO [TestNG] TestBase:75 - ChromePath: C:\Users\Potato\eclipse-workspace1\HonestFoodCompany\src\test\resources\Drivers\chromedriver.exe
+2021-05-01 15:38:03,377  INFO [TestNG] TestBase:49 - Launching chrome in Windows 10
+2021-05-01 15:38:03,527  INFO [TestNG] TestBase:56 - Maximizing the window
+2021-05-01 15:38:03,655  INFO [TestNG] TestBase:110 - Closing chrome driver instance
+2021-05-01 15:49:13,045  INFO [main] TestBase:33 - Properties file initialization is completed
+2021-05-01 15:49:13,109  INFO [TestNG] TestBase:75 - ChromePath: C:\Users\Potato\eclipse-workspace1\HonestFoodCompany\src\test\resources\Drivers\chromedriver.exe
+2021-05-01 15:49:14,975  INFO [TestNG] TestBase:49 - Launching chrome in Windows 10
+2021-05-01 15:49:15,108  INFO [TestNG] TestBase:56 - Maximizing the window
+2021-05-01 15:49:16,632  INFO [TestNG] TestBase:14 - Launching the website:- https://staging.clubkitchen.at
+2021-05-01 15:49:16,749  INFO [TestNG] TestBase:110 - Closing chrome driver instance

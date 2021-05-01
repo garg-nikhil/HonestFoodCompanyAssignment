@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="flight">
+    <classes>
+      <class name="com.honestfood.mamacita.tc.MamacitaTC"/>
+    </classes>
+  </test> <!-- flight -->
+</suite> <!-- Failed suite [Suite] -->
