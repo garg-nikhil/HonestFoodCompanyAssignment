@@ -6,4 +6,15 @@
       <class name="com.honestfood.mamacita.tc.MamacitaTC"/>
     </classes>
   </test> <!-- flight -->
+  <test parallel="tests" name="flight(failed)">
+    <classes>
+      <class name="com.honestfood.mamacita.tc.MamacitaTC">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="addMamaCitaProductToCart"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.honestfood.mamacita.tc.MamacitaTC -->
+    </classes>
+  </test> <!-- flight(failed) -->
 </suite> <!-- Failed suite [Suite] -->

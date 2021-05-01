@@ -54,7 +54,7 @@ public class TestBase {
 
 		driver.manage().window().maximize();
 		log.info("Maximizing the window");
-		driver.manage().timeouts().implicitlyWait(15, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
 	}
 
